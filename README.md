@@ -1,8 +1,6 @@
 # Spring Boot Async + CompletableFuture Demo
 
-This is a minimal example project to demonstrate using `@Async` and `CompletableFuture` in a Spring Boot application.
-
-Related blog post: [Boost Your Spring Boot App with @Async + CompletableFuture](https://medium.com/@uthpala_sam/boost-your-spring-boot-app-with-async-completablefuture-d1fe3155c664)  
+This is a minimal example project to demonstrate using `@Async`, `CompletableFuture` and `ThreadPoolTaskExecutor` in a Spring Boot application.
 
 ## How to run
 
